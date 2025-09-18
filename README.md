@@ -1,1 +1,1 @@
-In this repository we ave uploaded our presentation for the first round of VIT Code Apex '25.
+In this repository we have uploaded our presentation for the first round of VIT Code Apex '25.
