@@ -41,3 +41,4 @@ __pycache__/
 
 # Misc
 .vercel/
+.vercel
